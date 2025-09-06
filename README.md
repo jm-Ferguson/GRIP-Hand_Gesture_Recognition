@@ -24,8 +24,9 @@ Hand gesture recognition software driven by Mediapipe's pre-trained landmark det
 			- numpy (pip install numpy)
 			- Pytorch (https://pytorch.org/get-started/locally/)
    
-	3. Clicking run will pop open a window which displays the webcam or camera connectd to your computer. The AI model is trained on the left hand (palm facing forward) only and can only track
-	  one hand at a time.
+	3. Clicking run will pop open a window which displays the webcam or camera connectd to your computer. 
+ 	The AI model is trained on the left hand (palm facing forward) only and can only track
+	one hand at a time.
 
 
 
