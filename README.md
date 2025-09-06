@@ -4,7 +4,7 @@ Hand gesture recognition software driven by Mediapipe's pre-trained landmark det
 
 #How To Run (handGestureRun.py): 
 	1. Using VSCode open project file in structure
-		- AI
+		- GRIP
 		  |
 		  +-- handGestureSetup.py
 		  |
