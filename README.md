@@ -3,7 +3,7 @@ Hand gesture recognition software driven by Mediapipe's pre-trained landmark det
 
 
 
-#How To Run (handGestureRun.py): 
+# How To Run (handGestureRun.py): 
 	
  	1. Using VSCode open project file in structure
 		- GRIP
@@ -30,6 +30,6 @@ Hand gesture recognition software driven by Mediapipe's pre-trained landmark det
 
 
 
-#NOTE: 
+# NOTE: 
 - "handGestureSetup.py" -> file used to intialize, create, and train AI model.
 - "handGestureRun.py" -> file used to run trained models.
