@@ -1,9 +1,26 @@
 # GRIP-Hand_Gesture_Recognition
 Hand gesture recognition software driven by Mediapipe's pre-trained landmark detection model, combined with a custom neural network to classify hand gestures.
 
+# Pre-Trained Model's Gestures
+This repo includes a pre-trained model capable of recognizing four distinct hand gestures, as well as detecting when none of these gestures are performed. The six figures below illustrate the model’s predictions, indicating either the identified gesture or the presence of a hand in the camera’s view.
+<table>
+  <tr>
+	<td><img src="Images/No_Hand.png" width="400"/><br></td>
+	<td><img src="Images/No_Gesture.png" width="400"/><br></td>
+	
+  </tr>
+  <tr>
+	<td><img src="Images/Three_Gesture.png" width="400"/><br></td>
+    <td><img src="Images/ILY_Gesture.png" width="400"/><br></td>
+  </tr>
+  <tr>
+	<td><img src="Images/Rad_Gesture.png" width="400"/><br></td>
+	<td><img src="Images/Peace-Two_Gesture.png" width="400"/><br></td>
+  </tr>
+</table>
 
 
-# How To Run (handGestureRun.py): 
+# How To Run (handGestureRun.py)
 	
  	1. Using VSCode open project file in structure
 		- GRIP
@@ -30,6 +47,6 @@ Hand gesture recognition software driven by Mediapipe's pre-trained landmark det
 
 
 
-# NOTE: 
+# NOTE
 - "handGestureSetup.py" -> file used to intialize, create, and train AI model.
 - "handGestureRun.py" -> file used to run trained models.
